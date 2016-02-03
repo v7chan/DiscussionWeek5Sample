@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="formTitle">Please Enter Your Details</string>
+    <string name="Name">Your Name</string>
+    <string name="Email">Your Email</string>
+    <string name="EmployeeId">Your Employee ID</string>
+    <string name="Phone">Your Phone</string>
+    <string name="Address">Your Address</string>
+    <string name="Submit">Submit</string>
+    <string name="Search">Search</string>
+    <string name="AddNew">Add Record</string>
+</resources>
